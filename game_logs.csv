@@ -1,0 +1,63 @@
+Participant: 1Chosen: Alice,,
+Engagement1: 1,Engagement2: 1,
+"Remaining people: ['Alice', 'Charlie', 'Diane', 'Eve']",Attribute: bob,Value: no
+Engagement1: 1,Engagement2: 1,
+"Remaining people: ['Alice', 'Diane', 'Eve']",Attribute: male,Value: no
+Engagement1: 1,Engagement2: 1,
+"Remaining people: ['Alice', 'Eve']",Attribute: red_haired,Value: no
+Engagement1: 1,Engagement2: 1,End: who is it?
+Participant: 1,Chosen: Diane
+Participant: 1,Chosen: Diane
+Engagement1: 1,Engagement2: 1
+"Remaining people: ['Alice', 'Diane', 'Eve']",Attribute: male,Value: no
+Participant: 1,Chosen: Eve
+Engagement1: 1,Engagement2: 1
+Remaining people: ['Eve'],Attribute: white_haired,Value: yes
+Participant: 1,Chosen: Bob
+Engagement1: 1,Engagement2: 1
+"Remaining people: ['Bob', 'Charlie', 'Diane']",Attribute: white_haired,Value: no
+Engagement1: 1,Engagement2: 1
+Remaining people: ['Bob'],Attribute: black_haired,Value: yes
+Participant: 1,Chosen: Bob
+Participant: 1,Chosen: Alice
+Engagement1: 1,Engagement2: 1
+"Remaining people: ['Alice', 'Diane', 'Eve']",Attribute: male,Value: no
+Engagement1: 1,Engagement2: 1
+"Remaining people: ['Alice', 'Eve']",Attribute: red_haired,Value: no
+Engagement1: 1,Engagement2: 2
+"Remaining people: ['Alice', 'Eve']",Attribute: white_haired,Value: yes
+Engagement1: 1,Engagement2: 1
+"Remaining people: ['Alice', 'Eve']",Attribute: bob,Value: no
+Engagement1: 4,Engagement2: 4
+Remaining people: ['Alice'],Attribute: alice,Value: yes
+Participant: 1,Chosen: Charlie
+Engagement1: 1,Engagement2: 1
+Remaining people: ['Charlie'],Attribute: charlie,Value: yes
+Participant: 1,Chosen: Eve
+Engagement1: 1,Engagement2: 1
+Remaining people: ['Eve'],Attribute: eve,Value: yes
+Participant: 1,Chosen: Alice
+Engagement1: 1,Engagement2: 1
+Remaining people: ['Alice'],Attribute: alice,Value: yes
+Participant: 1,Chosen: Charlie
+Engagement1: 1,Engagement2: 1
+Remaining people: ['Charlie'],Attribute: charlie,Value: yes
+Participant: 1,Chosen: Charlie
+Engagement1: 1,Engagement2: 1
+Remaining people: ['Charlie'],Attribute: charlie,Value: yes
+Participant: 1,Chosen: Charlie
+Engagement1: 1,Engagement2: 1
+"Remaining people: ['Bob', 'Charlie']",Attribute: male,Value: yes
+Engagement1: 1,Engagement2: 1
+Remaining people: ['Charlie'],Attribute: black_haired,Value: no
+Participant: 1,Chosen: Charlie
+Engagement1: 1,Engagement2: 1
+"Remaining people: ['Alice', 'Charlie', 'Diane', 'Eve']",Attribute: black_haired,Value: no
+Engagement1: 2,Engagement2: 2,End: next
+Participant: 1,Chosen: Diane
+Engagement1: 1,Engagement2: 1
+"Remaining people: ['Bob', 'Charlie', 'Diane', 'Eve']",Attribute: alice,Value: no
+Engagement1: 2,Engagement2: 1
+"Remaining people: ['Charlie', 'Diane']",Attribute: red_haired,Value: yes
+Engagement1: 1,Engagement2: 1
+Remaining people: ['Diane'],Attribute: diane,Value: yes
